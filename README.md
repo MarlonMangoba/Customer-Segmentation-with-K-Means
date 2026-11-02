@@ -79,3 +79,6 @@ The five cluster baseline provides a straightforward view of income and spending
 - **Model Evaluation:** Elbow method (inertia) and silhouette scores
 - **Model Comparison:** Cluster profiles, cross-tabulation and heatmap
 
+## Project Files 
+[View jupyter Notebook](Kmeans_customers.ipynb) 
+[View Dataset](Mall_Customers.csv)
