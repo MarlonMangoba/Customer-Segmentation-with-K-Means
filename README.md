@@ -17,7 +17,7 @@ The mall customer dataset is a small, hypothetical dataset with 200 customer rec
 | Annual Income (k$) | Annual income in thousands of US dollars | 
 | Spending Score (1-100) | Customer spending behaviour score, not actual dollars spent |
 
-** [Data CSV here](Mall_Customers.csv) **
+[Data CSV here](Mall_Customers.csv)
 
 ## Key Findings
 - **Two-feature baseline:** Five clusters achieved a silhouette score of 0.554.
