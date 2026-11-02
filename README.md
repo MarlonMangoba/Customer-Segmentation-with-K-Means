@@ -42,7 +42,7 @@ Cluster labels are arbitrary identifiers, and the descriptive names summarise gr
 ## Visualisations
 
 ### Three-feature cluster projections
-![Three-feature scatter plots](K-Means Customer Clustering Visulations/Three-feature_model.png)
+![Three-feature scatter plots](https://github.com/MarlonMangoba/Customer-Segmentation-with-K-Means/blob/ae4e02e398cefeddc88bfed7d6d07365de85fb88/K-Means%20Customer%20Clustering%20Visulations/Three-feature_model.png)
 
 These plots show two-dimensional views of clsuters fitted in a three-dimensional feature space. Apparent overlap in one plot does not necessarily mean the customers are close across all three features.
 
