@@ -42,13 +42,13 @@ Cluster labels are arbitrary identifiers, and the descriptive names summarise gr
 ## Visualisations
 
 ### Three-feature cluster projections
-![Three-feature scatter plots](https://github.com/MarlonMangoba/Customer-Segmentation-with-K-Means/blob/ae4e02e398cefeddc88bfed7d6d07365de85fb88/K-Means%20Customer%20Clustering%20Visulations/Three-feature_model.png)
+![Three-feature scatter plots](https://github.com/MarlonMangoba/Customer-Segmentation-with-K-Means/blob/d8b659034c0673ad4aa3680e26332e3985aa8a5d/K-Means%20Customer%20Clustering%20Visulations/Three-feature_model.png)
 
 These plots show two-dimensional views of clsuters fitted in a three-dimensional feature space. Apparent overlap in one plot does not necessarily mean the customers are close across all three features.
 
 ### Cross-tabulation heatmap
 
-![Cluster Comparison Heatmap](K-Means Customer Clustering Visulations/Cross_tabulation_three-model.png)
+![Cluster Comparison Heatmap](https://github.com/MarlonMangoba/Customer-Segmentation-with-K-Means/blob/d8b659034c0673ad4aa3680e26332e3985aa8a5d/K-Means%20Customer%20Clustering%20Visulations/Cross_tabulation_three-model.png)
 
 The heatmap shows how the original five clsuters map to the six clusters obtained after adding age. The original moderate-income/moderate-spending group is primarily divided between two age-distinct groups; most other groups remian largely together, although thier numerical cluster labels differ. 
 
